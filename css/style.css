@@ -1,0 +1,16 @@
+.main-container {
+  margin-top: 18%
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+#pokemon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
